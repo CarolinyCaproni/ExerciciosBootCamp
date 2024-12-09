@@ -12,7 +12,6 @@ public class Ex02 {
 		// Collection ArrayList
 		ArrayList<Integer> numeros = new ArrayList<Integer>();
 
-		// Leia
 		Scanner leia = new Scanner(System.in);
 		
 		numeros.add(2);

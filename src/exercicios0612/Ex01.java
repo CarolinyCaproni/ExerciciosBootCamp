@@ -14,8 +14,6 @@ public class Ex01 {
 		ArrayList<String> cores = new ArrayList<String>();
 		
 		
-
-		// Leia
 		Scanner leia = new Scanner(System.in);
 		
 		for (contador = 0; contador < 5; contador++) {

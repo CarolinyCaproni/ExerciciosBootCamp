@@ -10,6 +10,7 @@ public class Ex03 {
 		
 		int indice;
 		
+		// Collection Set
 		Set<Integer> numeros = new HashSet<Integer>();
 		
 		Scanner leia = new Scanner(System.in);
